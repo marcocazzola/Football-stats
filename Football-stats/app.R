@@ -48,7 +48,7 @@ ui <- fluidPage(
     sidebarLayout(
         sidebarPanel(
             helpText("For the selected team and the selected day range, 
-                     returns a plot bar chart showing the distribution of the matches
+                     returns a plot bar showing the distribution of the matches
                      according to the selected category."),
             
             selectInput("team", "Select a team:", 
