@@ -19,7 +19,7 @@ Given a csv file collecting the results of a certain football championship, this
 
 - *Matches with at least 3 goals*: let you visualize how many matches played by the team in the selected period had less than or at least 3 total goals. 
 
-The distribution of the matches will be visualized as a bar plot. 
+The distribution of the matches will be visualized as a bar plot. The pre-selected dates are the earliest and the latest one in the selected CSV. 
 
 ### **Data**
 
