@@ -57,3 +57,8 @@ The csv files contain more than 100 columns, however the ones of our interest th
     - `D` means there was a draw
 
 More details about the data collected in the file can be found at <https://www.football-data.co.uk/notes.txt>. 
+
+To run the app on your device, just run the following commands: 
+
+library(shiny)
+runGitHub("Football-stats", "marcocazzola", ref="main")
