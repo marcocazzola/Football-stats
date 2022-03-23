@@ -1,15 +1,4 @@
----
-title: "README"
-author: "Marco Cazzola"
-date: "8/4/2021"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-### **Brief app description**
+### Brief app description
 
 Given a csv file collecting the results of a certain football championship, this app allows you to choose a certain team and set a day range, according to which you can see the statistics of the selected team in the selected day range for what concerns the following three categories: 
 
@@ -21,7 +10,7 @@ Given a csv file collecting the results of a certain football championship, this
 
 The distribution of the matches will be visualized as a bar plot. The pre-selected dates are the earliest and the latest one in the selected CSV. 
 
-### **Data**
+### Data
 
 The data used for this app come from the site <https://www.football-data.co.uk/data.php>. 
 
